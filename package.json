@@ -1,0 +1,20 @@
+{
+  "name": "forge-sha256",
+  "version": "1.0.0",
+  "description": "Reason to use this instead of the official forge build:   - drastic size reduction by pruning all unecessary code for SHA-256, from 284 KB to 4.5 KB   - automatically sets right encoding",
+  "main": "hasWideChar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tradecoffee/forge-sha256.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tradecoffee/forge-sha256/issues"
+  },
+  "homepage": "https://github.com/tradecoffee/forge-sha256#readme"
+}
